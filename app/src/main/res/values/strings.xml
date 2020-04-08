@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Catalogue Submission 4</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tvshow">TV Show</string>
+    <string name="title_favorite">favorite</string>
+    <string name="films_name">Title</string>
+    <string name="films_date">Release Date</string>
+    <string name="description">Description</string>
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>
